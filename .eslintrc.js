@@ -26,5 +26,6 @@ module.exports = {
     "comma-dangle": 0,
     "eol-last": 0,
     "no-multiple-empty-lines": 0
+
   }
 }
