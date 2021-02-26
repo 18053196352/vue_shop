@@ -4,7 +4,7 @@ import VueRouter from 'vue-router'
 
 Vue.use(VueRouter)
 
-export default new Router({
+export default new VueRouter({
   routes: [
 
   ]
