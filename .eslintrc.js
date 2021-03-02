@@ -33,6 +33,10 @@ module.exports = {
     "import/no-duplicates": 0,
     "space-before-function-paren": 0,
     "eqeqeq": 0,
-    'space-before-function-paren': 0
+    'space-before-function-paren': 0,
+    "no- trailing-spaces": 0,
+    "no-trailing-spaces": 0,
+    "spaced-comment": 0,
+    "curly": 0
   }
 }
