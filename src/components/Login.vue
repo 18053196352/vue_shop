@@ -1,11 +1,4 @@
 <template>
-<<<<<<< HEAD
-  <div class="login_container">登录组件</div>
-</template>
-
-<script>
-export default {};
-=======
   <div class="login_container">
     <!-- 登录盒子  -->
     <div class="login_box">
@@ -101,7 +94,6 @@ export default {
     },
   },
 }
->>>>>>> login
 </script>
 
 <style lang="less" scoped>
@@ -109,8 +101,6 @@ export default {
   background-color: #2b5b6b;
   height: 100%;
 }
-<<<<<<< HEAD
-=======
 .login_box {
   width: 450px;
   height: 300px;
@@ -151,5 +141,4 @@ export default {
   display: flex;
   justify-content: flex-end;
 }
->>>>>>> login
 </style>
