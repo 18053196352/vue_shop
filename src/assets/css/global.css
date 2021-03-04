@@ -26,3 +26,8 @@ el-card {
 .el-pagination {
     margin-top: 15px;
 }
+
+/* el-cascader中选项框高度不正常显示 在全局样式中添加  */
+/* .el-cascader-menu {
+    height: 250px;
+} */
