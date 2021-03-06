@@ -37,6 +37,7 @@ module.exports = {
     "no- trailing-spaces": 0,
     "no-trailing-spaces": 0,
     "spaced-comment": 0,
-    "curly": 0
+    "curly": 0,
+    "vue/no-dupe-keys": 0
   }
 }
